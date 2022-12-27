@@ -365,7 +365,7 @@ li {
   background-color: #0f1922;
 }
 .footer > div > p {
-  transition: 2s;
+  transition: 3s;
 }
 .footer > div > p:hover {
   cursor: pointer;
